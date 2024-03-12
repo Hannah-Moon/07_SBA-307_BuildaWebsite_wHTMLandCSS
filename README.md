@@ -1,6 +1,6 @@
 <h2 align="center">
   SBA-307: Build a Website<br/>
-  <a href="[https://soumyajit.vercel.app/](https://hannah-moon.github.io/07_SBA-307_BuildaWebsite_wHTMLandCSS/)" target="_blank">investwithme.com</a>
+  <a href="https://hannah-moon.github.io/07_SBA-307_BuildaWebsite_wHTMLandCSS/" target="_blank">investwithme.com</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="desktopview.gif">
