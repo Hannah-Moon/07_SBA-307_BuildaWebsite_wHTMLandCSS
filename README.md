@@ -20,15 +20,15 @@ This project was built using these technologies.
 - CSS
 - Bootstrap
 
-## Features
+## Key Takeaway
 
-**📖3 page layout**
+**📖 3 pages layout**
 
-**🎨 Styled with React-Bootstrap and CSS with easy-to-customize colors**
+**🎨 Styled with React-Bootstrap and CSS with easy-to-customize colors, font, gaps, and.....**
 
-**🌸 Particularly paid Attention to organizing code throughout the process**
+**🌸 Particularly paid attention to organizing code throughout the process**
 
-**📱 Tried to build a responsive app, but not fully functioning. Will get there**
+**📱 Tried to build a responsive app, but not fully functioning. I will get there**
 
 
 ### Show your support
