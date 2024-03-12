@@ -24,11 +24,11 @@ This project was built using these technologies.
 
 **📖3 page layout**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Styled with React-Bootstrap and CSS with easy-to-customize colors**
 
-**🌸 Particularly paied Attention to organizing code through out the proces**
+**🌸 Particularly paid Attention to organizing code throughout the process**
 
-**📱 Tried to build responsive app**
+**📱 Tried to build a responsive app, but not fully functioning. Will get there**
 
 
 ### Show your support
@@ -38,6 +38,6 @@ Please give a ⭐ if you like this work. Thank you!
 
 ### License
 
-And of course:
+And, of course:
 
 MIT: <https://rem.mit-license.org>
