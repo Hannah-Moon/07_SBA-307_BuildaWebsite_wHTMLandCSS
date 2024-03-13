@@ -22,7 +22,7 @@ This project was built using these technologies.
 
 ## Key Takeaway
 
-**📖 Made 3 pages layout**
+**📖 Made 3 pages layout.**
 
 **🎨 Styled with React-Bootstrap and CSS with easy-to-customize colors, font, gaps, and.....**
 
