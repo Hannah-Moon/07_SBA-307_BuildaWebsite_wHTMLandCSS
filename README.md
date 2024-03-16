@@ -31,12 +31,12 @@ This project was built using these technologies.
 **📱 Tried to build a responsive app, but not fully functioning. I will get there!! 🔥**
 
 
-### Show your support
+## Show your support
 
 Please give a ⭐ if you like this work. Thank you!
 
 
-### License
+## License
 
 And, of course:
 
